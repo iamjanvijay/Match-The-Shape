@@ -12,9 +12,9 @@
    To experience the gameplay follow the following simple steps :
    
    * Clone the Match-The-Shape repo, by simply executing the clone command from "git-bash" or directly download the zip folder. 
-      
+      ```
       git clone https://github.com/mejanvijay/Match-The-Shape.git
-      
+      ```
    * The executable (shapes.exe) and the mods folder (shapes_Data) should be in the same directory, after cloning.
    * Now Simply run the executable (shapes.exe).
 If you wish to modify the code, then source-code is available in Match-The-Shape folder. You will be requiring Unity 3D
@@ -22,7 +22,8 @@ and Visual Studio installed on your system for the same.
 
 ## Resources
   Unity3D - https://unity3d.com
+  
   Visual Studio - https://www.visualstudio.com/downloads/
   
-Feel free to reuse the code ! ;)  
+### Feel free to reuse the code ! ;)  
 
